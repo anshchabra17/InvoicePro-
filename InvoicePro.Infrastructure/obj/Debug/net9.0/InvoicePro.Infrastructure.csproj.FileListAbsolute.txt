@@ -1,0 +1,17 @@
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.AssemblyInfo.cs
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Infrastructure.deps.json
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Infrastructure.runtimeconfig.json
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Infrastructure.dll
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Infrastructure.pdb
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Core.dll
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\bin\Debug\net9.0\InvoicePro.Core.pdb
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoiceP.3B9EF7DC.Up2Date
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.dll
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\refint\InvoicePro.Infrastructure.dll
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.pdb
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\InvoicePro.Infrastructure.genruntimeconfig.cache
+C:\Users\anshc\onedrive\desktop\InvoicePro\InvoicePro.Infrastructure\obj\Debug\net9.0\ref\InvoicePro.Infrastructure.dll

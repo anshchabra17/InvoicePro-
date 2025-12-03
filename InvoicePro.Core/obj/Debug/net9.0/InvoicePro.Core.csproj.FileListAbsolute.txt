@@ -1,0 +1,11 @@
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\bin\Debug\net9.0\InvoicePro.Core.deps.json
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\bin\Debug\net9.0\InvoicePro.Core.dll
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\bin\Debug\net9.0\InvoicePro.Core.pdb
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.AssemblyInfoInputs.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.AssemblyInfo.cs
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.csproj.CoreCompileInputs.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.dll
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\refint\InvoicePro.Core.dll
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\InvoicePro.Core.pdb
+C:\Users\anshc\onedrive\desktop\Invoicepro\InvoicePro.Core\obj\Debug\net9.0\ref\InvoicePro.Core.dll

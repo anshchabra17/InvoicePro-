@@ -1,0 +1,5 @@
+C:\Users\anshc\onedrive\desktop\Invoicepro\invoicepro\obj\Debug\net9.0\InvoicePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshc\onedrive\desktop\Invoicepro\invoicepro\obj\Debug\net9.0\InvoicePro.AssemblyInfoInputs.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\invoicepro\obj\Debug\net9.0\InvoicePro.AssemblyInfo.cs
+C:\Users\anshc\onedrive\desktop\Invoicepro\invoicepro\obj\Debug\net9.0\InvoicePro.csproj.CoreCompileInputs.cache
+C:\Users\anshc\onedrive\desktop\Invoicepro\invoicepro\obj\Debug\net9.0\InvoicePro.sourcelink.json
