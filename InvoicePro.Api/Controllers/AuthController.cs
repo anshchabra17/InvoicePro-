@@ -31,7 +31,7 @@ namespace InvoicePro.Api.Controllers
             if (await _context.Users.AnyAsync(u => u.Email == user.Email))
                 return BadRequest("Email already registered.");
 
-            // Simple password hashing (safe for demo)
+            // Simple password hashing 
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
 
             _context.Users.Add(user);

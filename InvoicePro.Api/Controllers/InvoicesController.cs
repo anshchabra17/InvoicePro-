@@ -16,7 +16,7 @@ namespace InvoicePro.Api.Controllers
             _context = context;
         }
 
-        // GET: api/invoices
+        // GET method
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Invoice>>> GetInvoices()
         {
@@ -25,7 +25,7 @@ namespace InvoicePro.Api.Controllers
                                  .ToListAsync();
         }
 
-        // GET: api/invoices/{id}
+        // GET by id
         [HttpGet("{id}")]
         public async Task<ActionResult<Invoice>> GetInvoice(int id)
         {
@@ -39,7 +39,7 @@ namespace InvoicePro.Api.Controllers
             return invoice;
         }
 
-        // POST: api/invoices
+        // POST method
         [HttpPost]
         public async Task<ActionResult<Invoice>> CreateInvoice(Invoice invoice)
         {
@@ -49,7 +49,7 @@ namespace InvoicePro.Api.Controllers
             return CreatedAtAction(nameof(GetInvoice), new { id = invoice.InvoiceId }, invoice);
         }
 
-        // PUT: api/invoices/{id}
+        // PUT method
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateInvoice(int id, Invoice updatedInvoice)
         {
@@ -73,7 +73,7 @@ namespace InvoicePro.Api.Controllers
             return NoContent();
         }
 
-        // DELETE: api/invoices/{id}
+        // DELETE
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteInvoice(int id)
         {

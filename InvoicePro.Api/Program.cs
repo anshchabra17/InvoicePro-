@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "InvoicePro API", Version = "v1" });
 });
 
-// adding database......
+// adding database here
 builder.Services.AddDbContext<InvoiceProDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

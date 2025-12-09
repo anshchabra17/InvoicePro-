@@ -11,7 +11,7 @@ namespace InvoicePro.Infrastructure.Data
         {
         }
 
-        // Tables
+        // sql tables
         public DbSet<User> Users { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Vendor> Vendors { get; set; }
